@@ -18,6 +18,6 @@ While this challenge is mainly a review for me, I did learn that modern JavaScri
 
 ![webpage snapshot](/bmi_calculator.png)
 
-BMI Calculator Challenge 👉🏽 
+BMI Calculator Challenge 👉🏽 https://coderortiz.github.io/bmi_calculator/
 
 
